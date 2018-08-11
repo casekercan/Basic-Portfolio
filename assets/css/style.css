@@ -59,4 +59,22 @@ h2 {
     padding-left: 15px;
 }
 
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #666666;
+    border-top: #4aaaa5 solid 5px;
+}
 
+footer p{
+    font-size: 10px;
+    color: lightgrey;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    vertical-align: bottom;
+    width:100%;
+}
