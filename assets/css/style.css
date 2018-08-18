@@ -140,17 +140,16 @@ form {
     background-color: #ffffff;
     border: #cccccc solid 1px;
     max-width: 300px;
-    padding: 20px;
     order: 2;
-    max-height: 200px;
+    max-height: 175px;
     margin-top: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .contact-image {
-    height: 80px;
+    height: 60px;
     width: auto;
-    padding: 10px;
+    padding: 5px;
 }
 
 
